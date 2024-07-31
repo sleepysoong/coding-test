@@ -1,4 +1,4 @@
-# [level 0] 외계어 사전 - 120869 
+# [level 0] 외계어 사전 - 120869 - 4번째로 성공한 문제!
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120869#qna) 
 
