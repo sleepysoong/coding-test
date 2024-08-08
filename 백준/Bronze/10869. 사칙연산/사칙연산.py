@@ -1,0 +1,8 @@
+writtenChar = input().split(" ")
+a = int(writtenChar[0])
+b = int(writtenChar[1])
+print(a + b)
+print(a - b)
+print(a * b)
+print(int(a / b))
+print(a % b)
