@@ -1,0 +1,8 @@
+writtenChar = input().split(" ")
+a = int(writtenChar[0])
+b = int(writtenChar[1])
+c = int(writtenChar[2])
+print((a+b)%c)
+print(((a%c) + (b%c))%c)
+print((a*b)%c)
+print(((a%c)*(b%c))%c)
