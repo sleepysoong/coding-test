@@ -1,4 +1,4 @@
-# [level 1] 같은 숫자는 싫어 - 12906 
+# [level 1] 같은 숫자는 싫어 - 12906 - 8번째로 성공한 문제
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12906) 
 
