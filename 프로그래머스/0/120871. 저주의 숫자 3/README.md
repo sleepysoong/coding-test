@@ -1,4 +1,4 @@
-# [level 0] 저주의 숫자 3 - 120871 
+# [level 0] 저주의 숫자 3 - 120871 - 7번째로 성공한 문제
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120871) 
 
