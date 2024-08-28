@@ -1,4 +1,4 @@
-# [level 0] 컨트롤 제트 - 120853 
+# [level 0] 컨트롤 제트 - 120853 - 9번째로 성공한 문제
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120853) 
 
