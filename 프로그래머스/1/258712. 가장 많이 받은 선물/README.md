@@ -1,4 +1,4 @@
-# [level 1] 가장 많이 받은 선물 - 258712 
+# [level 1] 가장 많이 받은 선물 - 258712 ㅡ 10번째로 성공한 문제
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/258712?language=python3) 
 
