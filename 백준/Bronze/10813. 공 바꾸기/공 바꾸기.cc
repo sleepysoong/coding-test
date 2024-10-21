@@ -1,39 +1,27 @@
 #include <stdio.h>
 
-int main() {
-	/* 
-    	n = 공의 개수
-        m = 공 바꾸는 횟수
-        a = 바꿀 바구니 1
-        b = 바꿀 바구니 2
-        t = 바구니 임시 저장 변수
-        e = 바구니 배열
-    */
-    int n, m, a, b, t, e[100];
+int main(void){
+    int N, M;
+    scanf("%d %d", &N, &M);
     
-    // 공의 개수와 공을 바꾸는 횟수를 입력받는다.
-    scanf("%d %d", &n, &m);
+    int baskets[N+1];
     
-    // 바구니 배열에 n개 만큼의 공을 넣는다.
-    for(int i=0; i<n; i++) e[i] = i+1;
-    
-    // m번 공을 바꾼다.
-    for(int i=0; i<m; i++) {
-    	// 바꿀 바구니 2개를 입력받는다.
-        scanf("%d %d", &a, &b);
-        
-        // 바꿀 바구니 1을 t에 저장한다.
-        t = e[a-1];
-        
-        // 바꿀 바구니 1을 바꿀 바구니 2와 바꾼다.
-        e[a-1] = e[b-1];
-        
-        // 바꿀 바구니 2를 저장해둔 t(바구니 1)와 바꾼다.
-        e[b-1] = t;
+    for(int i=1; i<=N; i++){
+        baskets[i] = i;
     }
     
-    // 바뀐 바구니들의 순서에 맞게 공들을 출력한다.
-    for(int i=0; i<n; i++) printf("%d ", e[i]);
+    int a, b, temp;
+    
+    for(int j=0; j<M; j++){
+        scanf("%d %d", &a, &b);
+        temp = baskets[a];
+        baskets[a] = baskets[b];
+        baskets[b] = temp;
+    }
+    
+    for(int k=1; k<=N; k++){
+        printf("%d ", baskets[k]);
+    }
     
     return 0;
 }
