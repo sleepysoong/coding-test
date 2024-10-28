@@ -1,4 +1,4 @@
-# [level 1] 가장 가까운 같은 글자 - 142086 
+# [level 1] 가장 가까운 같은 글자 - 142086 - 11번째로 성공한 문제
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/142086) 
 
