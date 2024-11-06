@@ -1,4 +1,4 @@
-# [level 0] OX퀴즈 - 120907 
+# [level 0] OX퀴즈 - 120907 - 12번째로 성공한 문제 - Java로 푼 첫 문제!
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120907?language=java) 
 
