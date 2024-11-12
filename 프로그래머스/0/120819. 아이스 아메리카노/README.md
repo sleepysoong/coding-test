@@ -1,4 +1,4 @@
-# [level 0] 아이스 아메리카노 - 120819 
+# [level 0] 아이스 아메리카노 - 120819 - 13번째로 푼 문제 - Java로 푼 2번째 문제
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120819?language=java) 
 
